@@ -6,3 +6,5 @@ This project was very similar to the IEEE OPS Final Project. However, it was mor
 demo of straight line:https://www.youtube.com/watch?v=VumbSBMLCv8&list=PLWMfJ0QmZ0FXYXG3_rYL_88Evo2KLB2Ty&index=4
 -----
 demo of circle line: https://www.youtube.com/watch?v=zosNfPxSdYw&list=PLWMfJ0QmZ0FXYXG3_rYL_88Evo2KLB2Ty&index=3
+
+--I should note that I didn't actually pass on competition day. 
